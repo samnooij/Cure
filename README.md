@@ -9,5 +9,8 @@ To do:
 - Presentation of results
 
 Dependencies:
-- Python
+- Python (packages:)
+  - numpy
+  - Biopython
+  - pandas
 
